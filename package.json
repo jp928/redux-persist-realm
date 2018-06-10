@@ -1,6 +1,6 @@
 {
   "name": "@brighte/redux-persist-realm",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A Realmjs interface for redux-persist",
   "main": "RealmPersistInterface",
   "scripts": {
