@@ -1,8 +1,8 @@
 {
   "name": "@brighte/redux-persist-realm",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "description": "A Realmjs interface for redux-persist",
-  "main": "RealmPersistInterface.js",
+  "main": "RealmPersistInterface",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -27,5 +27,8 @@
     "realm": "^2.7.1",
     "redux-persist": "^5.10.0",
     "redux": "^4.0.0"
+  },
+  "dependencies": {
+    "core-js": "^2.5.7"
   }
 }
